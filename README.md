@@ -1,37 +1,68 @@
+
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+MWAITSI+DOLPHINE!;Full+Stack+Developer+%7C+Cloud+Enthusiast+%7C+CI%2FCD+Craftsperson;Turning+ideas+into+code+%E2%9A%99%EF%B8%8F+From+Nairobi%2C+Kenya" alt="Typing animation" />
+</p>
+
+---
+
 ```
-# 🌈 Welcome to My GitHub Profile! 🌈
+$ whoami
+👤 MWAITSI DOLPHINE — Full Stack Developer & Cloud-native Builder
 
-Hi there! I'm a passionate **Full-Stack Developer** with a love for creating dynamic and responsive web applications. I specialize in a variety of technologies, including:
+```
+$ location
+🌍 Nairobi, Kenya
 
-- **HTML** & **CSS**: Crafting beautiful and accessible user interfaces.
-- **JavaScript**: Bringing interactivity to the web.
-- **Python**: Building robust back-end services.
-- **React** & **Vue.js**: Developing modern, component-based applications.
-- **Nuxt.js**: Creating server-side rendered applications with Vue.
-- **Node.js**: Building scalable network applications.
-- **MongoDB**: Storing and managing data efficiently.
-- **APIs**: Integrating services and data sources seamlessly.
+```
+$ about
+💡 Passionate about building scalable web solutions.  
+🛠️ I blend clean design with robust backend logic.  
+📦 Shipping code like it's a lifestyle.  
+🌱 Currently exploring: AI integrations & Serverless apps
 
----
+```
+$ tech_stack
+🔹 Frontend → Vue, Nuxt, React  
+🔹 Backend → Node.js, PostgreSQL, MongoDB, MySQL  
+🔹 Tools & DevOps → Git, CI/CD, Cloud Services, Docker
 
-## 🚀 Skills
+```
+$ projects
+🔬 [University Innovation Portal](https://iec.ueab.ac.ke)  
+🛍️ [M-Kiondo Smart Cart](https://mkiondo.co.ke)  
+🧥 [E-Commerce Site](https://pagenotfound.co.ke)
 
-| Technology   | Proficiency Level |
-|--------------|-------------------|
-| HTML         | ![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen) |
-| CSS          | ![CSS](https://img.shields.io/badge/CSS-Expert-brightgreen) |
-| JavaScript   | ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) |
-| Python       | ![Python](https://img.shields.io/badge/Python-Intermediate-yellow) |
-| React        | ![React](https://img.shields.io/badge/React-Intermediate-yellow) |
-| Vue.js       | ![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-yellow) |
-| Nuxt.js      | ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-Beginner-orange) |
-| Node.js      | ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-yellow) |
-| MongoDB      | ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-yellow) |
+```
+$ freelance_status
+✅ Open to freelance & collab opportunities!
 
----
+```
+$ connect
+🔗 [LinkedIn](https://www.linkedin.com/in/dolphine-mwaitsi-372759263)  
+💬 [WhatsApp](https://wa.me/254718363795)  
+🐦 [Twitter/X](https://x.com/___dolph?t=d9BimDyCJZvB3SIS2bSeVw&s=09)  
+📸 [Instagram](https://www.instagram.com/_d.olph._?igsh=ZnRybGgxcXc5MGZy)  
+📫 mwaitsidolphine@gmail.com
 
+```
+$ motto
+"Code is art. I just happen to be a good painter." 🎨
 
-## 🌍 Let's Connect!
+```
+$ visitors
+![Profile Views](https://komarev.com/ghpvc/?username=dolphine1&style=flat-square&color=58A6FF&label=VISITORS)
 
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
+```
+$ ascii_logo
+███████╗███╗   ███╗██╗    ██╗ █████╗ ██╗████████╗███████╗██╗  
+██╔════╝████╗ ████║██║    ██║██╔══██╗██║╚══██╔══╝██╔════╝██║  
+█████╗  ██╔████╔██║██║ █╗ ██║███████║██║   ██║   █████╗  ██║  
+██╔══╝  ██║╚██╔╝██║██║███╗██║██╔══██║██║   ██║   ██╔══╝  ██║  
+███████╗██║ ╚═╝ ██║╚███╔███╔╝██║  ██║██║   ██║   ███████╗███████╗  
+╚══════╝╚═╝     ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝
+
+```
+$ exit
+👋 Thanks for visiting @dolphine1’s terminal. Happy coding!
 ```
