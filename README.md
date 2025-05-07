@@ -8,7 +8,7 @@
 
 ```
 $ whoami
-👤 MWAITSI DOLPHINE — Full Stack Developer & Cloud-native Builder
+ MWAITSI DOLPHINE — Full Stack Developer & Cloud-native Builder
 
 ```
 $ location
@@ -16,10 +16,10 @@ $ location
 
 ```
 $ about
-💡 Passionate about building scalable web solutions.  
-🛠️ I blend clean design with robust backend logic.  
-📦 Shipping code like it's a lifestyle.  
-🌱 Currently exploring: AI integrations & Serverless apps
+ Passionate about building scalable web solutions.  
+ I blend clean design with robust backend logic.  
+ Shipping code like it's a lifestyle.  
+ Currently exploring: AI integrations & Serverless apps
 
 ```
 $ tech_stack
@@ -29,9 +29,9 @@ $ tech_stack
 
 ```
 $ projects
-🔬 [University Innovation Portal](https://iec.ueab.ac.ke)  
-🛍️ [M-Kiondo Smart Cart](https://mkiondo.co.ke)  
-🧥 [E-Commerce Site](https://pagenotfound.co.ke)
+ [University Innovation Portal](https://iec.ueab.ac.ke)  
+ [M-Kiondo Smart Cart](https://mkiondo.co.ke)  
+ [E-Commerce Site](https://pagenotfound.co.ke)
 
 ```
 $ freelance_status
@@ -47,7 +47,7 @@ $ connect
 
 ```
 $ motto
-"Code is art. I just happen to be a good painter." 🎨
+"Code is art. I just happen to be a good poet." 🎨
 
 ```
 $ visitors
@@ -64,5 +64,5 @@ $ ascii_logo
 
 ```
 $ exit
-👋 Thanks for visiting @dolphine1’s terminal. Happy coding!
+ Thanks for visiting. Happy coding!
 ```
