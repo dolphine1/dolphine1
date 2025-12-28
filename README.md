@@ -20,8 +20,9 @@ A Software Engineering graduate with a mindset of continuous learning and growth
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dolphine1\&style=flat-square\&color=58A6FF\&label=VISITORS)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dolphine1&theme=tokyo-night)
+[![wakatime](https://wakatime.com/badge/user/8f7393cc-8d7d-4e82-8276-1ff53d99f169.svg)](https://wakatime.com/@8f7393cc-8d7d-4e82-8276-1ff53d99f169)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dolphine1&theme=tokyo-night)
 
 ---
 
