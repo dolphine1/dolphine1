@@ -1,24 +1,33 @@
-# This's Mwaitsi Dolphine
+
+````md
+#  Hi, Mwaitsi Dolphine here
+
 ---
-$about
+
+##  About Me
 ```
-I'm a lover of the tech niche and my aim is to learn and understand tech at core
-A software engineer gradaute with the aim to always learn
-```
+I'm a lover of the tech niche, driven by curiosity and a desire to understand technology at its core.
+A Software Engineering graduate with a mindset of continuous learning and growth.
+````
+
 ---
->"Code is art. I just happen to be good at my craft."
+
+> "Code is art. I just happen to be good at my craft."
+
 ---
-**stats**
 
-![My Stats](github-readme-stats.vercel.app)
+## GitHub Stats
 
-![Top Langs](github-readme-stats.vercel.app)
+![Profile Views](https://komarev.com/ghpvc/?username=dolphine1\&style=flat-square\&color=58A6FF\&label=VISITORS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dolphine1&style=flat-square&color=58A6FF&label=VISITORS)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dolphine1&theme=tokyo-night)
 
-----
- Thanks for visiting. Happy coding!
- 
- ```
-see you on the other side:)
+
+---
+
+Thanks for visiting & happy coding 
+
+```text
+see you on the other side :)
 ```
+
