@@ -1,13 +1,9 @@
 
+## About
 ````md
-#  Hi, Mwaitsi Dolphine here
-
----
-
-##  About Me
-```
 I'm a lover of the tech niche, driven by curiosity and a desire to understand technology at its core.
 A Software Engineering graduate with a mindset of continuous learning and growth.
+Making everything addictive and fun is how I go about stuff
 ````
 
 ---
